@@ -1,4 +1,4 @@
-# Construtor de Currículo
+# Construtor de Currículo 📝
 
 Aplicativo de console para montar currículos personalizados usando padrões de design.
 
