@@ -1,11 +1,7 @@
 import * as fs from "fs";
 import * as path from "path";
 import { Resume } from "../models/Resume";
-import { FormatStrategy } from "../strategies/FormatStrategy";
-import {
-  FormatStrategyFactory,
-  FormatType,
-} from "../factories/FormatStrategyFactory";
+import { FormatStrategyFactory } from "../factories/FormatStrategyFactory";
 import { ConfigManager } from "../singletons/ConfigManager";
 
 export class ResumeService {
